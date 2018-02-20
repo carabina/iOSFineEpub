@@ -37,7 +37,7 @@ A Simple pub reader writer in Swift and use javascript and css to show epubs.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'Fuzi', '~> 2.0.1'
   s.dependency 'objective-zip', '~> 1.0.5'
